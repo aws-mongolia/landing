@@ -1,0 +1,1 @@
+#mongolia_aws_comunity
